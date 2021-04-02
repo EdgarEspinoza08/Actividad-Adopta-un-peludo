@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+}
+
+p,h3,a{
+    color: white;
+    font: sans-serif;
+    text-decoration: none;
+}
+p,h3{
+    padding-left: 4%;
+}
+
+.nav{
+    background-color:#333333;   
+    float: left;
+    width: 20%;
+    height: 100vh;
+}
+
+.blue{
+    float: right;
+    background-color: #00d6f2;
+    width: 80%;
+    height: 25vh;
+}
+.yellow{
+    background-color: #ffde00;
+    display: block;
+    float: right;
+    width: 80%;
+    height: 25vh;
+
+}
+.orange{
+    background-color: #ff7a00;
+    display: block;
+    float: right;
+    width: 80%;
+    height: 25vh;
+
+}
+.red{
+    background-color: #ff0012;
+    display: block;
+    float: right;
+    width: 80%;
+    height: 25vh;
+
+}
