@@ -1,0 +1,57 @@
+body{
+    background-color:#333333;
+    position: relative
+}
+
+.nav ul{
+    position:absolute;
+    font-family: sans-serif;
+    
+}
+
+h3,p{
+    margin: 3%;
+    text-decoration: none;
+    font-size: large;
+    font-family: sans-serif;
+    color: white;
+}
+
+ul a{
+    text-decoration: none;
+    font-size: large;
+    font-family: sans-serif;
+    color: white;
+}
+
+a:hover{
+    box-sizing: content-box;
+}
+
+.content{
+    margin-top: 0%;
+    margin-right: 2%;
+    margin-left: 20%;
+    margin-bottom: 0%; 
+    position:absolute;
+}
+
+.blue{
+    display: inline-block;
+    background-color: #00d6f2;
+}
+
+.yellow{
+    display: inline-block;
+    background-color: #ffde00;
+}
+
+.orange{
+    display: inline-block;
+    background-color: #ff7a00;
+}
+
+.red{
+    display: inline-block;
+    background-color: #ff0012;
+}

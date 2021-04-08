@@ -1,0 +1,47 @@
+.nav{
+    background-color: #333333;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 20%;
+    height: 100vh;
+}
+
+.nav a{
+    color: aliceblue;
+    font-size: large;
+    font-family: sans-serif; 
+}
+.content{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 80%;
+    margin: 0 0 0 20%;   
+}
+
+.content p, h3{
+    margin: 3%;
+    color: white;
+    font-size: large;
+    font-family: sans-serif; 
+}
+
+.blue{
+    background-color: #00d6f2;
+    display: inline-block;
+}
+
+.yellow{
+    background-color: #ffde00;
+    display: inline-block;
+}
+.orange{
+    background-color: #ff7a00;
+    display: inline-block;
+}
+.red{
+    background-color: #ff0012;
+    display: inline-block;
+}
